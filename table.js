@@ -5,4 +5,4 @@ function colorirData(){
 
     let putColor = calendar.getElementsByTagName('td')[parseInt(day)+5];
     putColor.style.backgroundColor = color;
-}""
+}
